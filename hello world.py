@@ -24,7 +24,7 @@ while number > 10:
 else:
     print(number * number)'''
 
-'''n1 = int( input ( 'введите первое число: ' ))
+n1 = int( input ( 'введите первое число: ' ))
 n2 = int( input('введите второе число: '))
 n1 = n1+n2
 n2 = n1-n2
