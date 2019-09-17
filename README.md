@@ -1,2 +1,0 @@
-# GBPyton
-GeekBrains python
